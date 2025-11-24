@@ -44,7 +44,7 @@ export default function Skills() {
 
       <div className="overflow-hidden relative">
         <motion.div
-          className="flex gap-6 whitespace-nowrap"
+          className="flex gap-4 animate-[marquee_4s_linear_infinite]"
           animate={{
             x: ["0%", "-100%"]
           }}
