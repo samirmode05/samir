@@ -1,5 +1,129 @@
 export const blogPosts = [
   {
+  title: "When a Friendship Ends Without Goodbye",
+  slug: "friendship",
+  date: "2025-01-12",
+  description: "A Story of Unspoken Emotions",
+  content: `
+<h2 class="text-xl font-semibold mt-4 mb-2">
+🌙 When a Friendship Ends Without Goodbye: A Story of Unspoken Emotions
+</h2>
+
+<p class="mb-4">
+Friendship is one of the most unpredictable relationships in life. Sometimes it grows slowly
+over years, and sometimes it forms instantly, as if the universe quietly ties two people together
+with invisible threads. This is the story of one such bond — pure, effortless, and meaningful —
+and how it ended without a goodbye.
+</p>
+
+<p class="mb-4">
+For more than a year, two people shared a beautiful connection. They were not lovers, they had no
+unspoken promises, and no dramatic confessions. Just a simple, honest friendship. They talked
+every day — from the first good morning to the last good night. They shared their goals, fears,
+little victories, and daily struggles. They supported each other through exams, health issues, and
+difficult days.
+</p>
+
+<p class="mb-4">
+The bond grew organically. He admired her simplicity, her sincerity, her focus on studies, and
+how she preferred peace over chaos. She appreciated his support, his calm nature, and the way he
+always encouraged her dreams. He made thoughtful efforts — small surprises, kind words,
+occasional gifts, even building little things to make her smile. Their conversations were warm,
+consistent, and comforting.
+</p>
+
+<p class="mb-4">
+But life, as it often does, began to change quietly.
+</p>
+
+<p class="mb-4">
+One day, she grew distant. Not intentionally cruel — just silent, unavailable, unread. Messages
+that once received instant replies now stayed unseen. Calls that once sparked joy were declined.
+Stories and posts were ignored. All without a clear reason, without a conversation.
+</p>
+
+<p class="mb-4">
+He tried understanding, tried asking softly if anything was wrong, tried giving space. But the
+silence grew louder. And then came a single message — abrupt, cold, final. She said she couldn't
+talk anymore. That someone in her life did not like their friendship, and she had to end it
+immediately. No call, no explanation, just a line followed by a block.
+</p>
+
+<p class="mb-4">
+He was shocked. Not because the friendship ended, but because the way it ended lacked the respect
+the bond once held.
+</p>
+
+<p class="mb-4">
+He wasn’t angry. Just deeply hurt.  
+He had never crossed any boundaries.  
+He never proposed.  
+He only valued a friendship that once felt mutual and genuine.
+</p>
+
+<p class="mb-4">
+His emotions reacted before his mind could understand. He called her a few times — not out of
+obsession, but out of confusion, out of the suddenness of it all. He simply wanted one honest
+conversation, one moment of clarity, one gentle closure. But the call was cut the moment she heard
+his voice.
+</p>
+
+<p class="mb-4">
+That was the moment he realized something important:<br />
+<strong>Some endings will never give you answers.</strong>
+</p>
+
+<p class="mb-4">
+He reflected on where he might have gone wrong. Maybe he cared too much. Maybe he held on too
+tightly when things fell apart too quickly. Maybe his emotional responses were misunderstood as
+pressure. He wasn’t perfect, but he was genuine.
+</p>
+
+<p class="mb-4">
+And genuineness, even if misunderstood, is never a mistake.
+</p>
+
+<p class="mb-4">
+Despite the pain, he carried no hatred. He knew her life had shifted — new people, new
+influences, new priorities. He respected that. All he wished was that she had ended it with the
+same kindness with which it began.
+</p>
+
+<p class="mb-4">
+So he stepped back, quietly, with dignity.  
+He focused on his career, his growth, his opportunities.  
+Life rewarded him — jobs, travel, experiences, and new beginnings.
+</p>
+
+<p class="mb-4">
+Yet, he never forgot the friendship. Not because he was stuck in the past, but because the past
+had shaped him.
+</p>
+
+<p class="mb-4">
+He wrote his apology — not to send, but to release the weight on his heart. He accepted that
+closure does not always come from the other person. Sometimes, closure is the message you write
+and never deliver.
+</p>
+
+<p class="mb-4">
+Today, he wishes her well — truly, sincerely.  
+He hopes she achieves her dreams, whether in a forest uniform, a research lab, or a new city
+across the world. He hopes she becomes everything she once spoke about with shining eyes.
+</p>
+
+<p class="mb-4">
+Some friendships end, but their memories remain as soft echoes — reminding us of who we were, and
+how deeply we once cared.
+</p>
+
+<p class="mb-4">
+And that is enough.
+</p>
+
+  `,
+},
+  {
     title: "How I Built an AI Timetable Generator (SIH Project)",
     slug: "ai-timetable-generator",
     date: "2025-08-15",
