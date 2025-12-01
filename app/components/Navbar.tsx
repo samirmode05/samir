@@ -18,6 +18,8 @@ export default function Navbar() {
     { name: "About", href: "#about" },
     { name: "Skills", href: "#skills" },
     { name: "Projects", href: "#projects" },
+    { name: "Blog", href: "#blog" },
+    { name: "My Clicks", href: "/myclicks" },
     { name: "Contact", href: "#contact" },
   ];
 
@@ -58,14 +60,16 @@ export default function Navbar() {
                   <button
                     key={item.name}
                     onClick={() => {
-                      setOpen(false); // CLOSE MENU
-                      const section = document.querySelector(item.href);
-                      if (section) {
-                        section.scrollIntoView({ behavior: "smooth" });
-                      } else {
-                        window.location.href = item.href;
-                      }
-                    }}
+  setOpen(false);
+
+  if (item.href.startsWith("#")) {
+    const section = document.querySelector(item.href);
+    if (section) section.scrollIntoView({ behavior: "smooth" });
+  } else {
+    window.location.href = item.href;
+  }
+}}
+
                     className="text-left hover:text-blue-400 transition"
                   >
                     {item.name}

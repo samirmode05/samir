@@ -6,6 +6,7 @@ import Projects from "./components/Projects";
 import Achievements from "./components/Achievements";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Blog from "./components/Blog";   // ✅ ADD THIS
 
 export default function Home() {
   return (
@@ -24,6 +25,11 @@ export default function Home() {
       <div className="max-w-6xl mx-auto border-b border-white/10 my-6"></div>
 
       <Projects />
+
+      <div className="max-w-6xl mx-auto border-b border-white/10 my-6"></div>
+
+      {/* ✅ BLOG SECTION ADDED HERE */}
+      <Blog />
 
       <div className="max-w-6xl mx-auto border-b border-white/10 my-6"></div>
 
