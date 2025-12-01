@@ -4,7 +4,8 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const images = [
-  "/clicks/click1.jpg"
+  "/clicks/click1.jpg",
+  "/clicks/click2.jpg",
 ];
 
 export default function MyClicks() {
