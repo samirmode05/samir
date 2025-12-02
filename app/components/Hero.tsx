@@ -22,6 +22,7 @@ export default function Hero() {
     <FaLinkedin size={26} />
   </a>
 
+
   <a href="https://github.com/samirmode05" target="_blank" className="text-gray-300 hover:text-white transition">
     <FaGithub size={26} />
   </a>
@@ -37,6 +38,8 @@ export default function Hero() {
   <a href="https://x.com/samir_mode7378?s=21" target="_blank" className="text-gray-300 hover:text-white transition">
     <FaXTwitter size={26} />
   </a>
+  
+
 </motion.div>
 
 
@@ -118,19 +121,29 @@ export default function Hero() {
 
       {/* Profile Image */}
       <motion.div
-        initial={{ opacity: 0, scale: 0.85 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ duration: 0.7 }}
-        className="mt-8"
-      >
-        <Image
-          src="/samir.jpg"
-          width={220}
-          height={220}
-          alt="Samir Mode"
-          className="rounded-full border border-gray-700 shadow-xl"
-        />
-      </motion.div>
+  initial={{ opacity: 0, scale: 0.85 }}
+  animate={{ opacity: 1, scale: 1 }}
+  transition={{ duration: 0.7 }}
+  className="mt-10 flex flex-col items-center"
+>
+  <Image
+    src="/samir.jpg"
+    width={220}
+    height={220}
+    alt="Samir Mode"
+    className="rounded-full border border-gray-700 shadow-xl"
+  />
+
+  {/* Download Resume Button */}
+  <a
+    href="/samir_resume.pdf"
+    download
+    className="mt-5 px-6 py-3 backdrop-blur-lg bg-white/10 border border-white/20 
+               rounded-xl text-white hover:bg-white/20 transition"
+  >
+    Download Resume
+  </a>
+</motion.div>
     </section>
   );
 }
