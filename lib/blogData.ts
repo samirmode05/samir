@@ -1,4 +1,61 @@
 export const blogPosts = [
+ {
+  title: "Manifestation & My Journey to Cracking Citi Bank",
+  slug: "manifestation-journey",
+  date: "2025-02-12",
+  description: "A long-form motivational story of failure, self-belief, manifestation, confidence, and rising stronger.",
+  content: `
+<h2 class="text-xl font-semibold mt-4 mb-2">
+Manifestation & My Journey to Cracking Citi Bank
+</h2>
+
+<p class="mb-4">
+There are moments in life when success feels distant, almost unreachable. Not because we lack potential, but because circumstances and outcomes make us question who we are and what we are capable of achieving. My journey to cracking Citi Bank was one such chapter. It was not a story of instant achievement or effortless victory. It was shaped by failure, doubt, self-reflection, and a determination that grew stronger each time I fell. Before success came lessons, and before lessons came challenges that pushed me into becoming someone more resilient than before.
+</p>
+
+<p class="mb-4">
+I failed in two major interviews, Goldman Sachs and Bank of New York. These were not small rejections that could be brushed aside. They carried weight. They stayed in the mind longer than expected. What made them hurt more was not the interviews themselves, but the reaction of people around me. The subtle jokes, the comments disguised as advice, the raised eyebrows, and the judgments that followed. “He couldn’t crack it,” they said. What they couldn’t see were the hours of dedication behind the scenes, the preparation, the sleepless nights, the commitment to improving. Failure has a strange way of exposing you to people’s opinions more than their understanding.
+</p>
+
+<p class="mb-4">
+But as painful as these failures were, they became my biggest teachers. I realized that rejection does not end your journey; it refocuses it. I spent time understanding my gaps, not emotionally but objectively. I revisited my basics, strengthened concepts, practiced more questions, restructured my resume, and most importantly, rebuilt my mindset. Every failure made me sharper. Every comment made me stronger. Every doubt pushed me toward growth. The process was slow, but it was steady, and over time I began to feel like a more refined version of myself.
+</p>
+
+<p class="mb-4">
+During this time, I turned to manifestation-not as a shortcut or a magical belief, but as a way of aligning my mindset with my goals. Manifestation for me meant visualizing the person I wanted to become, imagining myself clearing interviews, speaking confidently, contributing to real projects, and stepping into a professional environment. It wasn’t about hoping that things would happen. It was about believing that they could happen and working toward them with complete sincerity. I committed to improving every single day, whether or not anyone noticed it. I kept reminding myself that belief without action is just a wish, but belief supported by consistent effort becomes power.
+</p>
+
+<p class="mb-4">
+Getting shortlisted for interviews often excites people, but not clearing them brings equal disappointment from the same people. They start forming assumptions, creating their own stories, making jokes, or concluding that you simply weren’t good enough. These moments can drain your motivation, and there were times they almost did. But one lesson changed everything for me: your belief in yourself matters more than anyone else’s opinion. People see the outcome. They rarely see the hours of effort, the silent battles, the fear of failing again, the courage to try again, and the discipline to keep moving even when results don’t show up immediately.
+</p>
+
+<p class="mb-4">
+Everyone sees the final selection message. But no one sees the process that leads to it. They do not see the early mornings spent practicing, the late nights spent revising, the frustration of not solving something repeatedly, the moments of doubt that silently break you, and the decision to stand up every time despite all of it. Growth is a quiet journey. Improvement does not make noise. Confidence does not demand praise. It builds silently within you until one day you realize you have become someone far stronger than the version who once failed.
+</p>
+
+<p class="mb-4">
+Eventually, all the belief, the consistency, the preparation, and the manifestation aligned together. I cracked Citi Bank for an internship. It did not feel like luck. It felt like a natural result of everything I had been working for internally and externally. It felt like the universe acknowledging the effort I had put in when no one else was watching. It felt like a quiet victory, not over others, but over my own doubts and limitations.
+</p>
+
+<p class="mb-4">
+When I received the selection, I wasn’t proud because I succeeded. I was proud because I persisted. The selection was just the ending of a chapter, but the real story was written in the pages of resilience, patience, and growth. The rejections from Goldman Sachs and Bank of New York were not signs of inability. They were signs that I needed to evolve more before I could receive the opportunity that would truly fit me. And that evolution changed everything.
+</p>
+
+<p class="mb-4">
+So, to anyone going through failures, setbacks, or judgment from others, I want to say this with complete honesty: you are not defined by your setbacks. You are defined by how you rise after them. Confidence is the foundation on which success is built. You must never lose confidence, no matter what people say or how circumstances unfold. Always try to become the best version of yourself. Growth is not about proving others wrong but proving to yourself that you are capable of more than you thought.
+</p>
+
+<p class="mb-4">
+Take every negative comment as motivation to push further. Transform every doubt into determination. Trust yourself even when no one else does. And most importantly, trust the timing of your life. If you give your best with pure intention, you will be rewarded at the right time. There is a saying that guided me throughout this journey: <strong>ईश्वर देर से देता है, लेकिन देता जरूर है।</strong> God sometimes takes time, but He never forgets to reward sincere effort.
+</p>
+
+<p class="mb-4">
+My journey is not just a story of cracking an internship. It is a reminder that failure is not final, doubt is not permanent, and setbacks are not the end. They are simply parts of a path that prepares you for something better. Keep believing in yourself. Keep manifesting with clarity. Keep improving with consistency. Your moment will come. Maybe not today, maybe not tomorrow, but it will arrive when you are truly ready for it. And when it does, you will realize that every step of the struggle was worth it.
+</p>
+  `,
+}
+,
+
   {
   title: "When a Friendship Ends Without Goodbye",
   slug: "friendship",
