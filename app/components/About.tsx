@@ -21,7 +21,7 @@ export default function About() {
         className="text-gray-300 leading-relaxed text-lg"
       >
         I'm an Electronics & Telecommunication Engineering student at <span className="text-blue-400 font-semibold">VJTI Mumbai</span>  
-        <br></br>and also pursuing a B.Sc. in Data Science from <span className="text-blue-400 font-semibold">IIT Madras</span>.  
+        <br></br>and also pursuing a BS in Data Science from <span className="text-blue-400 font-semibold">IIT M</span>.  
         I enjoy building intelligent systems, automation tools, and full-stack projects that solve real-world problems.
         <br /><br />
         My interests lie in:
