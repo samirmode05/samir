@@ -20,8 +20,8 @@ export default function About() {
         transition={{ duration: 0.8 }}
         className="text-gray-300 leading-relaxed text-lg"
       >
-        I'm an Electronics & Telecommunication Engineering student at <span className="text-blue-400 font-semibold">VJTI Mumbai</span>  
-        <br></br>and also pursuing a BS in Data Science from <span className="text-blue-400 font-semibold">IIT M</span>.  
+        I'm a Computer Science Engineering student  <span className="text-blue-400 font-semibold"></span>  
+        <br></br>and pursuing a BS in Data Science from <span className="text-blue-400 font-semibold">IIT M</span>.  
         I enjoy building intelligent systems, automation tools, and full-stack projects that solve real-world problems.
         <br /><br />
         My interests lie in:
