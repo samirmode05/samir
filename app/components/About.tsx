@@ -23,6 +23,7 @@ export default function About() {
         I'm a Computer Science Engineering student  <span className="text-blue-400 font-semibold"></span>  
         <br></br>and pursuing a BS in Data Science from <span className="text-blue-400 font-semibold">IIT M</span>.  
         I enjoy building intelligent systems, automation tools, and full-stack projects that solve real-world problems.
+        
         <br /><br />
         My interests lie in:
         <br />
